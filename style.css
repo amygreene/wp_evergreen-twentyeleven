@@ -60,6 +60,26 @@ display:none;
     padding: 0.5em 0 0;
 }
 
+/*styling for Full Width Template*/
+
+.fullwidth header,.fullwidth .entry-header,.fullwidth .entry-content {
+width:90%;
+margin:0 auto;
+padding:0;
+}
+
+.page-template-full-width-page-php #main #content {
+margin:0;
+}
+
+.page-template-full-width-page-php #main {
+padding:0;
+}
+
+.page-template-full-width-page-php #access {
+margin:0;
+}
+
 /*for mobile devices with itsy bitsy screens*/
 img,
 embed,
